@@ -1,0 +1,9 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "max-empty-lines": 2,
+    "no-empty-source": null,
+    "number-leading-zero": null,
+    "string-quotes": "single"
+  }
+}
